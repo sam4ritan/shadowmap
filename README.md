@@ -1,2 +1,2 @@
 # shadowmap
-An app to map out regoins under camera surveillance
+An app to map out areas under camera surveillance
